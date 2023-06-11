@@ -44,7 +44,7 @@ order by Department,No_of_workers desc;
 ```
 ## OUTPUT:
 
-<img width="497" alt="image" src="https://github.com/Monisha-11/EXP-02---NO_OF_WORKERS-IN-DEPT/assets/93427240/3c670f0e-d900-4c88-b84c-9c146a5c14e8">
+<img width="406" alt="image" src="https://github.com/Monisha-11/EXP-02---NO_OF_WORKERS-IN-DEPT/assets/93427240/43ca7519-cf11-4740-90ea-9f4e90f83cc9">
 
 
 ## RESULT:
